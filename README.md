@@ -20,7 +20,7 @@
 <!-- [![Top Langs](https://github-readme-stats-lyart-rho.vercel.app/api/top-langs/?username=nekonekko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![nekonekko's GitHub stats](https://github-readme-stats-lyart-rho.vercel.app/api?username=nekonekko)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nekonekko&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nekonekko&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2> 🚀 &nbsp;What I Have Used and Learned</h2>
   <h3> Languages </h3>
